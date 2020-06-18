@@ -1,0 +1,10 @@
+In Python you can... Print out messages in the screen
+In Python you can... Store data in variables as strings, numbers and comments
+In Python you can... Create and manipulate lists with information
+In Python you can... Interate through lists and use tuples
+In Python you can... Use 'if' statements to control flows with conditionals
+In Python you can... Create and manipulate dictionaries with hashed keys and values
+In Python you can... Let your user input data and create lopps with 'While'
+In Python you can... Create functions to reuse code
+In Python you can... Create and instance classes to make smarter programming
+In Python you can... Read and write files
